@@ -12,13 +12,13 @@ Sample data is included in CSV format for testing and demonstration.
 ## 👀 Preview - プレビュー
 
 ### 🔎 Book Search - 書籍検索
-![書籍検索](/Users/inori/github/book-lending-app_GAS/img/bookSearch.gif)
+![Book Search](img/bookSearch.gif)
 
 ### 📕 Book Borrowing - 書籍の貸出
-![書籍の貸出](/Users/inori/github/book-lending-app_GAS/img/borrow.gif)
+![Book Borrowing](img/borrow.gif)
 
 ### 📗 Book Return - 書籍の返却
-![書籍の返却](/Users/inori/github/book-lending-app_GAS/img/return.gif)
+![Book Return](img/return.gif)
 
 ---
 
